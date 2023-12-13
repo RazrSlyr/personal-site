@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/razrslyr.github.io/personal-site/static/css/main.7bd3acfb.css",
+    "main.js": "/razrslyr.github.io/personal-site/static/js/main.0979a2c0.js",
+    "index.html": "/razrslyr.github.io/personal-site/index.html",
+    "main.7bd3acfb.css.map": "/razrslyr.github.io/personal-site/static/css/main.7bd3acfb.css.map",
+    "main.0979a2c0.js.map": "/razrslyr.github.io/personal-site/static/js/main.0979a2c0.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7bd3acfb.css",
+    "static/js/main.0979a2c0.js"
+  ]
+}
