@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/razrslyr.github.io/personal-site/static/css/main.7bd3acfb.css",
-    "main.js": "/razrslyr.github.io/personal-site/static/js/main.0979a2c0.js",
-    "index.html": "/razrslyr.github.io/personal-site/index.html",
-    "main.7bd3acfb.css.map": "/razrslyr.github.io/personal-site/static/css/main.7bd3acfb.css.map",
-    "main.0979a2c0.js.map": "/razrslyr.github.io/personal-site/static/js/main.0979a2c0.js.map"
+    "main.css": "/personal-site/static/css/main.7bd3acfb.css",
+    "main.js": "/personal-site/static/js/main.ff8aac79.js",
+    "index.html": "/personal-site/index.html",
+    "main.7bd3acfb.css.map": "/personal-site/static/css/main.7bd3acfb.css.map",
+    "main.ff8aac79.js.map": "/personal-site/static/js/main.ff8aac79.js.map"
   },
   "entrypoints": [
     "static/css/main.7bd3acfb.css",
-    "static/js/main.0979a2c0.js"
+    "static/js/main.ff8aac79.js"
   ]
 }
